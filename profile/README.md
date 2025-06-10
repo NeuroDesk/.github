@@ -4,3 +4,4 @@
 - 🌈 Contribution guidelines: https://www.neurodesk.org/docs/overview/contribute/
 - 📝 Code of Conduct: https://github.com/NeuroDesk/.github/blob/main/CODE_OF_CONDUCT.md
 - 👩‍💻 Useful resources: https://www.neurodesk.org/docs/overview/
+- 💰 Donate to the project: https://donations.uq.edu.au/EAINNEUR
